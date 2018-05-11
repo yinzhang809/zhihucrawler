@@ -5,7 +5,7 @@
 
 ### Sample Data
 
-the data is store in the json format. it is a dictionary list, contains three field: "post" ,"res" for response, and the conversation id.
+the data is stored in the json format. it is a dictionary list, contains three field: "post" ,"res" for response, and the conversation id.
 
 <img src="./img/1.png">
 

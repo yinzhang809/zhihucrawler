@@ -21,5 +21,5 @@ the data is stored in the json format. it is a dictionary list, contains three f
 
 - fill in you zhihu account in login.py and generate token.pkl.
 - run crawler.py to generate the conversation and run preprocessing.py to clean and format data.
-- download NLPCC 2017 weibo data from and place it in ./data  folder.
+- download NLPCC 2017 weibo data and place it in ./data  folder.
 - run Classify/cnn_pytorch.py to generate the emtion label for the sentences.
